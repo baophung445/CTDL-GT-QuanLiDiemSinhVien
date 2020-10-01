@@ -1,0 +1,14 @@
+﻿  main.cpp
+c:\users\baoph\desktop\đồ án cấu trúc dữ liệu\đồ án cấu trúc dữ liệu\mylib.h(247): warning C4018: '>' : signed/unsigned mismatch
+c:\users\baoph\desktop\đồ án cấu trúc dữ liệu\đồ án cấu trúc dữ liệu\dang_ki.h(709): warning C4018: '<' : signed/unsigned mismatch
+c:\users\baoph\desktop\đồ án cấu trúc dữ liệu\đồ án cấu trúc dữ liệu\dang_ki.h(724): warning C4018: '<' : signed/unsigned mismatch
+c:\users\baoph\desktop\đồ án cấu trúc dữ liệu\đồ án cấu trúc dữ liệu\dang_ki.h(749): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\baoph\desktop\đồ án cấu trúc dữ liệu\đồ án cấu trúc dữ liệu\dang_ki.h(765): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\baoph\desktop\đồ án cấu trúc dữ liệu\đồ án cấu trúc dữ liệu\dang_ki.h(778): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\baoph\desktop\đồ án cấu trúc dữ liệu\đồ án cấu trúc dữ liệu\dang_ki.h(786): warning C4244: '=' : conversion from 'double' to 'float', possible loss of data
+c:\users\baoph\desktop\đồ án cấu trúc dữ liệu\đồ án cấu trúc dữ liệu\dang_ki.h(1261): warning C4244: '+=' : conversion from 'float' to 'int', possible loss of data
+c:\users\baoph\desktop\đồ án cấu trúc dữ liệu\đồ án cấu trúc dữ liệu\dang_ki.h(1264): warning C4244: '=' : conversion from 'int' to 'float', possible loss of data
+  Generating code
+c:\users\baoph\desktop\đồ án cấu trúc dữ liệu\đồ án cấu trúc dữ liệu\mylib.h(341): warning C4715: 'Chuyen1SoSangKiTu' : not all control paths return a value
+  Finished generating code
+  Đồ án cấu trúc dữ liệu.vcxproj -> C:\Users\baoph\Desktop\Đồ án cấu trúc dữ liệu\Release\Đồ án cấu trúc dữ liệu.exe

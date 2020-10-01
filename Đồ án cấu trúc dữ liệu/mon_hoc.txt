@@ -1,0 +1,7 @@
+INT1313,Ctdl,3,2
+INT323,vixuli,3,2
+INT4343,toanrr,3,2
+INT9999,toantu,3,2
+INT8888,theduc,3,2
+
+
